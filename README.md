@@ -25,5 +25,12 @@ Below you will find a brief description of each of the projects in this reposito
 (7) DOM Traveral: A simple demonstration of traversing the DOM and setting up events in JavaScript. 
 
 (8) Automobile: This JavaScript project uses higher order functions and objects.  It should be started using Node.js.  It will print to the console.  
+
+(9) Procedure & Loops: This MASM project demonstrates basic usage of loops and
+procedures within MASM. It also validates the user's input.  This uses the Irvine Library.  
+
+(10) Indirect Addressing: Demonstrates indirect addressing and passing parameters in MASM, along with generating "random" numbers and working with arrays.  This uses the Irvine Library.
+
+(11) Low-level IO: Creating and using low-level I/O procedures and macros. It gets 10 integers from the user, displays them, their sum and their average. Uses the Irvine Library. 
              
 
