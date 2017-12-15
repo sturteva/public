@@ -13,8 +13,14 @@ Below you will find a brief description of each of the projects in this reposito
                        the first time I needed to coordniate more than a dozen different files into a cohesive program in C++.
                        
 (4) Text Survival Game: The culmination of an OSU class, this text based game demonstrates the usage of polymorphism 
-                        along with pointers in C++.  
-
+                        along with pointers in C++.                   
+                        
 (5) Weather: This no-frill single page website demonstrates using AJAX for GET & POST requests.  It uses a GET request to
              access the Open Weather API using either a city's Zip Code or the city name.  It also does an asynchronous 
-             POST request.  This is all done using Javascript and HTML. 
+             POST request.  This is all done using Javascript and HTML.
+        
+(6) GET & POST: This is an early backend project that simply checks to see if
+                a request was a GET or a POST request and displays it. This
+                uses Javascript, HTML and Node.js.  
+             
+
