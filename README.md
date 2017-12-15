@@ -19,11 +19,9 @@ Below you will find a brief description of each of the projects in this reposito
              access the Open Weather API using either a city's Zip Code or the city name.  It also does an asynchronous 
              POST request.  This is all done using Javascript and HTML.
         
-(6) GET & POST: This is an early backend project that simply checks to see if
-                a request was a GET or a POST request and displays it. This
-                uses Javascript, HTML and Node.js.  
+(6) GET & POST: This is an early backend project that simply checks to see if a request was a GET or a POST request and displays it. 
+                This uses JavaScript, HTML and Node.js.  
 
-(7) DOM Traveral: A simple demonstration of traversing the DOM and setting up
-                  events in Javascript. 
+(7) DOM Traveral: A simple demonstration of traversing the DOM and setting up events in JavaScript. 
              
 
