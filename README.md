@@ -14,3 +14,7 @@ Below you will find a brief description of each of the projects in this reposito
                        
 (4) Text Survival Game: The culmination of an OSU class, this text based game demonstrates the usage of polymorphism 
                         along with pointers in C++.  
+
+(5) Weather: This no-frill single page website demonstrates using AJAX for GET & POST requests.  It uses a GET request to
+             access the Open Weather API using either a city's Zip Code or the city name.  It also does an asynchronous 
+             POST request.  This is all done using Javascript and HTML. 
