@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <script src=weather.js></script>  
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>Weather</legend>
+        <legend>City,State entry has priority over Zipcode</legend>
+        <label for="city">City & State</label>
+        <input type="text" name="city" id="city">
+        <div>  
+        <label for="city">Zipcode</label>
+        <input type="text" name="zip" id="zip">
+          </div>   
+        <input type="submit" id="weatherSubmit">
+      </fieldset>
+    </form>
+    <div>
+      <h2>Weather Result</h2>
+      <ul>
+        <li><span>City Name: </span><span id="cityName"></span></li>
+        <li><span>Temperature: </span><span id="temp"></span></li>
+        <li><span>Humidity: </span><span id="humidity"></span></li>
+      </ul>
+    </div>
+      
+    <form>
+        <fieldset>
+            <legend>Asynch POST Form</legend>
+            <label for="postDat">Input</label>
+            <input type="text" name="postDat" id="postDat">
+            <input type="submit" id="postSubmit">
+        </fieldset>  
+    </form>  
+    <div>
+        <h2>POST Result</h2>  
+        <ul>
+            <li><spa>Post Data Result: </spa><span id="postResult"></span></li>
+        </ul>
+    </div>
+  </body>
+</html>
