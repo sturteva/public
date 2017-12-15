@@ -23,5 +23,7 @@ Below you will find a brief description of each of the projects in this reposito
                 This uses JavaScript, HTML and Node.js.  
 
 (7) DOM Traveral: A simple demonstration of traversing the DOM and setting up events in JavaScript. 
+
+(8) Automobile: This JavaScript project uses higher order functions and objects.  It should be started using Node.js.  It will print to the console.  
              
 
